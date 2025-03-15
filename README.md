@@ -26,7 +26,7 @@ I am passionate about **Autonomous Systems, Control Engineering, and AI**, with 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rami-boumekhita/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Rami-R)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your@email.com)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](rami.boumekhita@gmail.com)  
 
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rami-R&show_icons=true&theme=dark)
